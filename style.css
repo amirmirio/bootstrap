@@ -1,0 +1,292 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.d1{
+    background-color: #37535b;
+    width: 100%;
+    height: 100%;
+}
+.D5{
+    background-color:#0b1235;
+    width: 100%;
+    height: 100px;
+    
+}
+.a1{
+    font-size: 40px;
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    color: aliceblue;
+}
+.a1:hover{
+    color: green;
+}
+.a2{
+    font-size: 25px;
+    position: absolute;
+    right: 40%;
+    top: 5%;
+    color: aliceblue;
+}
+.a2:hover{
+    color: green;
+}
+.a3{
+    font-size: 25px;
+    position: absolute;
+    right: 25%;
+    top: 5%;
+    color: aliceblue;
+}
+.a3:hover{
+    color: green;
+}
+.a4{
+    font-size: 25px;
+    position: absolute;
+    right: 10%;
+    top: 5%;
+    color: aliceblue;
+}
+.a4:hover{
+    color: green;
+}
+.img1{
+    position:absolute;
+    top: 30%;
+    left:40% ;
+    border-radius:100px ;
+}
+.e1{
+    position: absolute;
+    top: 70%;
+    left: 35%;
+    color: aliceblue;
+
+}
+.e2{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 90%;
+    left: 30%;
+    color: white;
+}
+.e3{
+    font-size: 3rem;
+    font-size: 3rem;
+    color: #0b1331;
+    position: absolute;
+    left: 35%;
+    top: 110%;
+}
+.d2{
+        display: flex;
+        flex-direction: row;
+        column-gap: 010pxpx;
+        position: absolute;
+        left: 20%;
+        background: white;
+        top: 130%;
+}
+
+.v1{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+
+}
+.v2{
+    width: 300px;
+    height: 300px; 
+    border-radius: 30px;
+}
+.v3{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+.d3{
+    display: flex;
+    flex-direction: row;
+    column-gap: 010pxpx;
+    position: absolute;
+    left: 20%;
+    background: white;
+    top: 160%;
+}
+.n1{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.n2{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.n3{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.d4{
+    width: 100%;
+    height: 100%;
+    background-color: #37535b;
+    position: absolute;
+    top: 200%;
+}
+.R1{
+    position: absolute;
+    left: 40%;
+    color: white;
+    font-size: 3rem;
+    top: 15%;
+}
+.d5{
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    font-size: 20px;
+    color: white;
+}
+.d6{
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 30%;
+    left:55%;
+    font-size: 20px;
+    color: white;
+}
+.d7{
+    position: absolute;
+    top: 310%;
+    font-size: 3rem;
+    left: 40%;
+}
+.te1{
+    position: absolute;
+    top: 330%;
+    left: 30%;
+    width: 45%;
+    height: 12%;
+    border-top: none;
+    border-right: none;
+    border-left: none
+}
+.te2{
+    position: absolute;
+    top: 350%;
+    left: 30%;
+    width: 45%;
+    height: 12%;
+    border-top: none;
+    border-right: none;
+    border-left: none
+}
+.te3{
+    position: absolute;
+    top: 370%;
+    left: 30%;
+    width: 45%;
+    height: 12%;
+    border-top: none;
+    border-right: none;
+    border-left: none
+}
+.te4{
+    position: absolute;
+    top: 390%;
+    left: 30%;
+    width: 45%;
+    height: 12%;
+    border-top: none;
+    border-right: none;
+    border-left: none
+}
+
+.d8{
+   width: 100%;
+   height: 40%;
+   background-color: #0b1331;
+   position: absolute;
+   top: 440%;
+}
+.fo1{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    font-size: 3rem;
+    color: white;
+}
+.fo2{
+    position: absolute;
+    top: 45%;
+    left: 12%;
+    font-size: 1.5rem;
+    color: white;
+}
+.fo3{
+    position: absolute;
+    top: 60%;
+    left: 15%;
+    font-size: 1.5rem;
+    color: white;
+}
+.fo4{
+    position: absolute;
+    top: 25%;
+    left: 45%;
+    font-size: 2rem;
+    color: white;
+}
+.fo5{
+    position: absolute;
+    top: 25%;
+    left: 75%;
+    font-size: 2rem;
+    color: white;
+}
+.fo6{
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    font-size: 1rem;
+    color: white;
+}
+.d12{
+    width: 100%;
+    height: 15%;
+    background-color: #0c1c35;
+    position: absolute;
+    top: 480%;
+}
+.i2{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+.in1{
+    position: absolute;
+    top: 410%;
+    width: 10%;
+    height: 10%;
+    font-size: 1.5rem;
+    background-color: #346380;
+    border-radius: 15px;
+    border: solid #793232 2px ;
+    left: 30%;
+}
